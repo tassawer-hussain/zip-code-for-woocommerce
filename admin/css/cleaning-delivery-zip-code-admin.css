@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.cd-table-center {
+    text-align: center;
+}
+.cd-table-center td {
+    padding: 10px;
+}
+
+.highlight .pt-request-count {
+    background-color: forestgreen;
+    color: #fff;
+    font-weight: 700;
+}
